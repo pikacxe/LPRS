@@ -1,0 +1,1 @@
+## Projekti rađeni tokom kursa *Logičko projektovanje račuranskih sistem 1* ##
